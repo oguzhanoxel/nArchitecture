@@ -1,7 +1,6 @@
 ﻿using Application.Features.Brands.Commands.CreateBrand;
 using Application.Features.Brands.Dtos;
 using Application.Features.Brands.Models;
-using Application.Features.Brands.Queries.GetListBrand;
 using AutoMapper;
 using Core.Persistence.Paging;
 using Domain.Entities;
